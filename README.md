@@ -1,6 +1,6 @@
 # Hi, I'm Anton
 
-Java backend developer based in Germany. I like building systems that stay correct under concurrency, duplicate payment callbacks and crashes in the middle of a transaction. Looking for a remote junior Java backend role.
+Java backend developer based in Germany. I like building systems that stay correct under concurrency, duplicate payment callbacks and crashes in the middle of a transaction.
 
 ## Projects
 
